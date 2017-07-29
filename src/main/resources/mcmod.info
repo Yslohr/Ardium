@@ -1,0 +1,15 @@
+[
+{
+  "modid": "ardium",
+  "name": "ArdiumMod",
+  "description": "Mod of the Ardium server",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "http://ardium-pvp.com/",
+  "authorList": ["NeroZbeub"],
+  "credits": "Copyright Ardium",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

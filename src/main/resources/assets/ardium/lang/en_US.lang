@@ -1,0 +1,29 @@
+item.ardium.name=Ardium
+item.ardium_apple.name=Ardium Apple
+item.dynamite.name=Dynamite
+item.coin_10.name=Coin 10
+item.coin_100.name=Coin 100
+item.coin_1000.name=Coin 1000
+item.coin_10000.name=Coin 10000
+item.coin_100000.name=Coin 100000
+item.coin_1000000.name=Coin 1000000
+
+item.ardium_sword.name=Ardium Sword
+item.ardium_shovel.name=Ardium Shovel
+item.ardium_pickaxe.name=Ardium Pickaxe
+item.ardium_axe.name=Ardium Axe
+item.ardium_hoe.name=Ardium Hoe
+item.ardium_multitools.name=Ardium MultiTools
+
+item.ardium_helmet.name=Ardium Helmet
+item.ardium_body.name=Ardium Chestplate
+item.ardium_legs.name=Ardium Leggings
+item.ardium_boots.name=Ardium Boots
+
+tile.ardium_ore.name=Ardium Ore
+tile.ardium_block.name=Ardium Block
+tile.barrier_block.name=Barrier Block
+tile.enchanting_table_base.name= Enchanting Table Base
+tile.obsidian_stairs.name=Obsidian Stairs
+
+itemGroup.ardiumTab=Ardium Tab

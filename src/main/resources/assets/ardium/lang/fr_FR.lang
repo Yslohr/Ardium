@@ -1,0 +1,21 @@
+item.ardium.name=Ardium
+
+item.ardium_sword.name=Épée en Ardium
+item.ardium_shovel.name=Pelle en Ardium
+item.ardium_pickaxe.name=Pioche en Ardium
+item.ardium_axe.name=Hache en Ardium
+item.ardium_hoe.name=Houe en Ardium
+item.ardium_multitools.name=MultiOutils en Ardium
+
+item.ardium_helmet.name=Haume en Ardium
+item.ardium_chestplate.name=Plastron en Ardium
+item.ardium_leggings.name=Jambieres en Ardium
+item.ardium_boots.name=Bottes en Ardium
+
+tile.ardium_ore.name=Minerais d'Ardium
+tile.ardium_block.name=Bloc d'Ardium
+tile.barrier_block.name=Bloc Barrière
+tile.enchanting_table_base.name=Base de Table D'Enchantement
+tile.obsidian_stairs.name= Escaliers en Obsidienne
+
+itemGroup.ardiumTab=Ardium Tab
