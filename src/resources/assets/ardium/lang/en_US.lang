@@ -1,0 +1,69 @@
+//Containers
+itemGroup.tabArdium=Ardium Tab
+ardium.container.backpack=Ardium Backpack
+
+// Ardium Items
+item.backpack.name=Ardium Backpack
+item.ardium_ingot.name=Ardium Ingot
+item.apple_ardium.name=Ardium Apple
+item.dynamite.name=Ardium Dynamite
+item.sticky_dynamite.name=Sticky Dynamite
+item.ardium_string.name=Ardium String
+item.sticky_string.name=Sticky String
+// Ardium Tools
+item.ardium_sword.name=Ardium Sword
+item.ardium_shovel.name=Ardium Shovel
+item.ardium_pickaxe.name=Ardium Pickaxe
+item.ardium_axe.name=Ardium Axe
+item.ardium_hoe.name=Ardium Hoe
+item.ardium_multitools.name=Ardium MultiTools
+// Ardium Armor
+item.ardium_helmet.name=Ardium Helmet
+item.ardium_chestplate.name=Ardium Chestplate
+item.ardium_leggings.name=Ardium Leggings
+item.ardium_boots.name=Ardium Boots
+// Ardium Blocks
+tile.ardium_block.name=Ardium Block
+tile.ardium_ore.name=Ardium Ore
+tile.ardium_barrier.name=Ardium Barrier
+
+
+// Platinum Items
+item.platinum_ingot.name=Platinum Ingot
+// Platinum Tools
+item.platinum_sword.name=Platinum Sword
+item.platinum_shovel.name=Platinum Shovel
+item.platinum_pickaxe.name=Platinum Pickaxe
+item.platinum_axe.name=Platinum Axe
+item.platinum_hoe.name=Platinum Hoe
+item.platinum_multitools.name=Platinum MultiTools
+
+// Platinum Armor
+item.platinum_helmet.name=Platinum Helmet
+item.platinum_chestplate.name=Platinum Chestplate
+item.platinum_leggings.name=Platinum Leggings
+item.platinum_boots.name=Platinum Boots
+
+// Platinum Blocks
+tile.platinum_block.name=Platinum Block
+tile.platinum_ore.name=Platinum Ore
+
+
+// Oxium Items
+item.oxium_sword.name=Oxium Sword
+item.oxium_shovel.name=Oxium Shovel
+item.oxium_pickaxe.name=Oxium Pickaxe
+item.oxium_hoe.name=Oxium Hoe
+item.oxium_multitools.name=Oxium MultiTools
+
+// Oxium Armor
+item.oxium_helmet.name=Oxium Helmet
+item.oxium_chestplate.name=Oxium Chestplate
+item.oxium_leggings.name=Oxium Leggings
+item.oxium_boots.name=Oxium Boots
+
+
+// Obsidian Blocks
+tile.enchanting_table_base.name=Enchanting Table Base
+tile.obsidian_stairs.name=Obsidian Stairs
+tile.obsidian_wall.name=Obsidian Wall

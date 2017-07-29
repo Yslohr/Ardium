@@ -1,0 +1,17 @@
+
+[
+{
+  "modid": "ardium",
+  "name": "Ardium",
+  "description": "Official and main mod of the Ardium server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://ardium-pvp.com/",
+  "updateUrl": "",
+  "authorList": ["Yslohr"],
+  "credits": "My mod is licenced under the  GNU AFFERO GENERAL PUBLIC LICENSE on github at https://github.com/Yslohr/ardium/ AND should follow the Minecraft  EULA but applied to my mod, if you broke it, you loose the right to use my mod until I verify that it's OK again",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

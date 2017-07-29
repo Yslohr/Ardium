@@ -1,0 +1,49 @@
+itemGroup.tabArdium=Ardium Tab
+item.ardium.name=Ardium
+item.backpack.name=Ardium Backpack
+
+item.ardium_sword.name=Ardium Sword
+item.ardium_spade.name=Ardium Spade
+item.ardium_pickaxe.name=Ardium Pickaxe
+item.ardium_axe.name=Ardium Axe
+item.ardium_hoe.name=Ardium Hoe
+item.ardium_multitools.name=Ardium Shickaxe
+
+item.ardium_helmet.name=Ardium Helmet
+item.ardium_chestplate.name=Ardium Chestplate
+item.ardium_leggings.name=Ardium Leggings
+item.ardium_boots.name=Ardium Boots
+
+
+item.platinum_ingot.name=Platinum Ingot
+item.platinum_sword.name=Platinum Sword
+item.platinum_shovel.name=Platinum Shovel
+item.platinum_pickaxe.name=Platinum Pickaxe
+item.platinum_axe.name=Platinum Axe
+item.platinum_multitools.name=Platinum Shickaxe
+
+item.platinum_helmet.name=Platinum Helmet
+item.platinum_chestplate.name=Platinum Chestplate
+item.platinum_leggings.name=Platinum Leggings
+item.platinum_boots.name=Platinum Boots
+
+
+item.oxium_sword.name=Oxium Sword
+item.oxium_shovel.name=Oxium Shovel
+item.oxium_pickaxe.name=Oxium Pickaxe
+item.oxium_axe.name=Oxium Axe
+item.oxium_multitools.name=Oxium Shickaxe
+
+item.oxium_helmet.name=Oxium Helmet
+item.oxium_chestplate.name=Oxium Chestplate
+item.oxium_leggings.name=Oxium Leggings
+item.oxium_boots.name=Oxium Boots
+
+
+tile.ardium_block.name=Ardium Block
+tile.ardium_ore.name=Ardium Ore
+tile.enchanting_table_base.name=Enchanting Table Base
+tile.obsidian_stairs.name=Obsidian Stairs
+tile.obsidian_wall.name=Obsidian Wall
+tile.platinum_block.name=Platinum Block
+tile.platinum_ore.name=Platinum Ore

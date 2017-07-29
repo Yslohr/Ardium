@@ -1,0 +1,54 @@
+// Creative Tab
+itemGroup.tabArdium=Ardium Tab
+
+// Items
+item.ardium.name=Ardium
+item.backpack.name=Sac à Dos en Ardium
+
+item.platinum_ingot.name=Lingot en Platine
+item.platinum_sword.name=Épée en Platine
+item.platinum_shovel.name=Pelle en Platine
+item.platinum_pickaxe.name=Pioche en Platine
+item.platinum_axe.name=Hache en Platine
+item.platinum_shickaxe.name=MultiOutils en Platine
+
+item.platinum_helmet.name=Haume en Platine
+item.platinum_chestplate.name=Plastron en Platine
+item.platinum_leggings.name=Jambieres en Platine
+item.platinum_boots.name=Bottes en Platine
+
+
+//Outils en Ardium
+item.ardium_sword.name=Épée en Ardium
+item.ardium_shovel.name=Pelle en Ardium
+item.ardium_pickaxe.name=Pioche en Ardium
+item.ardium_axe.name=Hache en Ardium
+item.ardium_hoe.name=Houe en Ardium
+item.ardium_multitools.name=MultiOutils en Ardium
+
+// Armure en Ardium
+item.ardium_helmet.name=Haume en Ardium
+item.ardium_chestplate.name=Plastron en Ardium
+item.ardium_leggings.name=Jambieres en Ardium
+item.ardium_boots.name=Bottes en Ardium
+
+// Outils en Oxium
+item.oxium_sword.name=Épée en Oxium
+item.oxium_shovel.name=Pelle en Oxium
+item.oxium_pickaxe.name=Pioche en Oxium
+item.oxium_axe.name=Hache en Oxium
+item.oxium_multitools.name=MultiOutils en Oxium
+
+// Armure en Oxium
+item.oxium_helmet.name=Haume en Oxium
+item.oxium_chestplate.name=Plastron en Oxium
+item.oxium_leggings.name=Jambieres en Oxium
+item.oxium_boots.name=Bottes en Oxium
+
+// Blocks
+tile.ardium_block.name=Bloc d'Ardium
+tile.ardium_ore.name=Minerais d'Ardium
+tile.obsidian_stairs.name=Escaliers en Obsidienne
+tile.obsidian_wall.name=Mur en Obsidienne
+tile.platinum_block.name=Bloc de Platine
+tile.platinum_ore.name=Minerais de Platine
